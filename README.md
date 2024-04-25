@@ -1,2 +1,10 @@
 # Northwind-Data-Exploration
-Project analyzing and visualizing data from the Northwind dataset using SQL and Tableau
+**Description**
+
+**About the Dataset**
+
+**Conclusions**
+
+**Technologies**
+
+**Areas for Improvement**
