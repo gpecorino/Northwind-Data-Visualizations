@@ -5,7 +5,7 @@ This project delves into the Northwind database, housing a variety of data for t
 1. PostgreSQL was utilized to pull data from the Northwind database that I use to create my visualizations and to perform other tasks such as inventory management and analysis of customer purchasing behavior.
 2. Tableau was used to develop two comprehensive dashboards, enabling in-depth analysis of both sales data and employee performance metrics.
 
-Here you will find a file containing the queries that were used, the tables that I created to make my visualizations and a link to my dashboards on Tableau Public.
+Here you will find a file containing the queries that were used, the tables that I created to make my visualizations and a link to my dashboards on [Tableau Public](https://public.tableau.com/app/profile/giovanni.pecorino/viz/NorthwindDashboards/SalesBreakdown?publish=yes).
 
 **About the Dataset**
 
