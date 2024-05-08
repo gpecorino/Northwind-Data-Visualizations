@@ -58,6 +58,8 @@ The last table included is the employee_best_customer.csv which shows the custom
 
 **Conclusions**
 ![](images/Sales%20Breakdown.png)
+
+![](images/Employee%20Performance.png)
 **Technologies**
 
 + PostgreSQL: Used to create queries for the database
