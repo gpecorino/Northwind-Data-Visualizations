@@ -56,7 +56,7 @@ The last table included is the employee_best_customer.csv which shows the custom
 
 
 
-## Conclusions*
+## Conclusions
 Below I have 2 screenshots of my dashboards. The first dashboard describes Northwind Traders sales data and the second dashboard shows employee performance.
 ### Sales Breakdown Dashboard ![](images/Sales%20Breakdown.png)
 
