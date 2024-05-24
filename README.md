@@ -1,4 +1,4 @@
-# Northwind-Data-Exploration
+# Northwind-Data-Visualizations
 ## Description
 
 This project delves into the Northwind database, housing a variety of data for the fictional company Northwind Traders, which specializes in the export/import of specialty foods. My objective is to craft visualizations that narrate the company's story and facilitate data-driven business decisions. To achieve this, I leverage two key tools:
