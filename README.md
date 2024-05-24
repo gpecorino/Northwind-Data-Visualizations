@@ -1,5 +1,5 @@
 # Northwind-Data-Exploration
-**Description**
+## Description
 
 This project delves into the Northwind database, housing a variety of data for the fictional company Northwind Traders, which specializes in the export/import of specialty foods. My objective is to craft visualizations that narrate the company's story and facilitate data-driven business decisions. To achieve this, I leverage two key tools:
 1. PostgreSQL was utilized to pull data from the Northwind database that I use to create my visualizations and to perform other tasks such as inventory management and analysis of customer purchasing behavior.
@@ -7,7 +7,7 @@ This project delves into the Northwind database, housing a variety of data for t
 
 Here you will find a file containing the queries that were used, the tables that I created to make my visualizations and a link to my dashboards on [Tableau Public](https://public.tableau.com/app/profile/giovanni.pecorino/viz/NorthwindDashboards/SalesBreakdown?publish=yes).
 
-**About the Dataset**
+## About the Dataset
 
 This database contains a variety of information about the orders, customers, employees, suppliers and products of Northwind Traders, distributed across multiple tables. To streamline the analysis process, I selectively extracted pertinent data, focusing solely on information essential for addressing crucial business inquiries. Utilizing these refined queries, I generated three tables within this repository, serving as the foundation for crafting my visualizations.
 
@@ -56,11 +56,13 @@ The last table included is the employee_best_customer.csv which shows the custom
 
 
 
-**Conclusions**
-![](images/Sales%20Breakdown.png)
+## Conclusions*
+Below I have 2 screenshots of my dashboards. The first dashboard describes Northwind Traders sales data and the second dashboard shows employee performance.
+### Sales Breakdown Dashboard ![](images/Sales%20Breakdown.png)
 
-![](images/Employee%20Performance.png)
-**Technologies**
+### Employee Performance Dashboard  ![](images/Employee%20Performance.png)
+
+## Technologies
 
 + PostgreSQL: Used to create queries for the database
 + Tableau: Used to create visualizations and dashboards
