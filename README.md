@@ -23,7 +23,7 @@ The Northwind database contains 17 tables, of which only six were relevant for t
 
 Month-to-month sales remain relatively stable, typically alternating between months of higher and lower sales—likely due to customers ordering less in the month following larger purchases. This pattern held consistently until the last four months, which saw a substantial 181% increase in sales. With 92.8% of all orders generating positive profits and this recent sales surge, the company is performing well and showing strong growth potential. The following sections will explore the factors driving recent performance and identify opportunities for further improvement. 
 
-Below is a screenshot from the Tableau dashboard, with additional examples provided throughout the report. The complete interactive dashboard can be accessed and downloaded here.
+Below is a screenshot from the Tableau dashboard, with additional examples provided throughout the report. The complete interactive dashboard can be accessed and downloaded [here.](https://public.tableau.com/app/profile/giovanni.pecorino/viz/NorthwindDashboards/SalesBreakdown?publish=yes)
 ![](images/Northwind_sales.PNG)
 
 ## Insights
